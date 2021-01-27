@@ -113,7 +113,6 @@ body {
 }
 button {
 	border: none;
-	outline: none;
 	outline: none!important;
 	background-color: transparent;
 }
