@@ -17,6 +17,7 @@ formElementSend.onsubmit = function(event){
 		ulElement.appendChild(liElement)
 		inputElementSend.value = ""
 	}else{
+		alert('Habar yozilmadi.!') 
 	}
 }
 
@@ -29,5 +30,6 @@ formElementReceive.onsubmit = function(event){
 		ulElement.appendChild(liElement)
 		inputElementReceive.value = ""
 	}else{
+		alert('Habar yozilmadi.!') 
 	}
 }
