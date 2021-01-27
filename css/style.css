@@ -114,6 +114,7 @@ body {
 button {
 	border: none;
 	outline: none;
+	outline: none!important;
 	background-color: transparent;
 }
 @media(max-width: 375px) {
