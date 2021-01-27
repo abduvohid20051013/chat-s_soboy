@@ -62,6 +62,7 @@ body {
 .send {
 	margin-right: 15px;
 	width: 230px;
+	max-width: 230px;
 	margin-left: auto;
 	padding: 10px 15px;
 	background-color: lightgrey;
