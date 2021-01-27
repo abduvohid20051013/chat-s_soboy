@@ -17,7 +17,6 @@ formElementSend.onsubmit = function(event){
 		ulElement.appendChild(liElement)
 		inputElementSend.value = ""
 	}else{
-		alert('Biror malumot kiriting.!') 
 	}
 }
 
@@ -30,6 +29,5 @@ formElementReceive.onsubmit = function(event){
 		ulElement.appendChild(liElement)
 		inputElementReceive.value = ""
 	}else{
-		alert('Biror malumot kiriting.!') 
 	}
 }
