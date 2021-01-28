@@ -48,6 +48,7 @@ body {
 
 }
 .receive {
+	max-width: 230px;
 	margin-left: 15px;
 	margin-right: auto;
 	padding: 10px 15px;
@@ -57,6 +58,7 @@ body {
 	border-top-right-radius: 30px;
 	border-bottom-right-radius: 30px;
 	margin-bottom: 17px;
+	overflow: hidden;
 
 }
 .send {
@@ -69,6 +71,7 @@ body {
 	border-bottom-left-radius: 30px;
 	border-top-right-radius: 30px;
 	margin-bottom: 17px;
+	overflow: hidden;
 
 }
 .footer-send {
